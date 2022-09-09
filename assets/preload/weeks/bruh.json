@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"discord-annoyer",
+			"ammar",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"hate-comment",
+			"ammar",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"shut-up",
+			"ammar",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"twitter-argument",
+			"ammar",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "nah.....",
+	"weekName": "Cbruh week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
