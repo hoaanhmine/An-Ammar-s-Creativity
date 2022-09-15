@@ -11963,7 +11963,7 @@
 		"needsVoices": true,
 		"arrowSkin": "",
 		"validScore": true,
-		"stage": "youtube",
+		"stage": "none",
 		"bpm": 230,
 		"speed": 2.7
 	}

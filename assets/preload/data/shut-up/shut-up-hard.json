@@ -13459,7 +13459,7 @@
 		"player2": "demon-sky",
 		"player3": null,
 		"song": "Shut-Up",
-		"stage": "shutup",
+		"stage": "demonbg",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 220,

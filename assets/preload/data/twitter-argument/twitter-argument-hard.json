@@ -17407,7 +17407,7 @@
 		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "Twitter-Argument",
-		"stage": "twitter",
+		"stage": "none",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
