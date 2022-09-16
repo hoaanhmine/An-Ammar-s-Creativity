@@ -8167,7 +8167,7 @@
 		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "Discord-Annoyer",
-		"stage": "none",
+		"stage": "stage",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
